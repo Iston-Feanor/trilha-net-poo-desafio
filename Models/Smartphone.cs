@@ -14,7 +14,7 @@ namespace DesafioPOO.Models
             IMei = imei;
             Memoria = memoria;
         }
-
+        
         public void Ligar()
         {
             Console.WriteLine("Ligando...");
